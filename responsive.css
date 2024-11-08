@@ -1,0 +1,15 @@
+@media only screen and (max-width: 596px) {
+    .first-section {
+        height: 100vh;
+    }
+    .first-section aside img {
+        width: 100%;
+    }
+
+    .second-section{
+        height: 125vh;
+    }
+    /* .cards-box .card img{
+        width: 100%;
+    } */
+}
